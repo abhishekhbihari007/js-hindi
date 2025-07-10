@@ -40,7 +40,6 @@ console.log( typeof myFunction); (this)
 //https://262.ecma-international.org/5.1/#sec-11.4.3
 
 //Return type of variables in JavaScript
-//Return type of variables in JavaScript
 //1) Primitive Datatypes
        //Number => number
        //String  => string
