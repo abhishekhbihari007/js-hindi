@@ -27,3 +27,9 @@ const newStringOne = "      bihari   "
 console.log(newStringOne);
 console.log(newStringOne.trim());//trim is used to remove extra spaces 
 
+const url ="https://google.com%20"
+
+console.log(url.replace('%20','/'))
+console.log(url.includes('Bihari7'))
+
+console.log(gameName.split('-'))//ti is used to split the string 
