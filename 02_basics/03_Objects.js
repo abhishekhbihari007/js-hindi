@@ -36,4 +36,19 @@ const user =[
         email: "abhi@gmail.com"
     
     },
+     {
+        id: 1,
+        email: "abhi@gmail.com"
+    
+    }, 
+    {
+        id: 1,
+        email: "abhi@gmail.com"
+    
+    },
 ]
+
+user[1].email
+console.log(tinderUser);
+console.log(Object.keys(tinderUser));
+console.log(Object.entries(tinderUser));
